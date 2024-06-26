@@ -1,0 +1,24 @@
+{
+  "id":"goi_cwl"
+  "pack": {
+    "pack_format": 8,
+    "supported_formats": [8,48],
+    "description": "afting logs in to sticks and logs in a chest"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "thewild",
+		"formats": [10, 12]
+      },
+      {
+        "directory": "trailsandtails",
+		"formats": [15, 18, 26, 41]
+      },
+      {
+        "directory": "trickytrails",
+		"formats": [48]
+      }
+    ]
+  }
+}

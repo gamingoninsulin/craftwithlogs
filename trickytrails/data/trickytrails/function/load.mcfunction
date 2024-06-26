@@ -1,0 +1,1 @@
+schedule function trickytrials:init 3s append

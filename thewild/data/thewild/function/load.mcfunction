@@ -1,0 +1,1 @@
+schedule function thewild:init 3s append

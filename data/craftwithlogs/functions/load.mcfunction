@@ -1,0 +1,1 @@
+schedule function craftwithlogs:init 3s append
